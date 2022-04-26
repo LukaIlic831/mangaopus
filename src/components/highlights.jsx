@@ -17,7 +17,7 @@ const Highlights = () => {
                         title="Easy and Quick" 
                         para="Get access to the book you purchased online instantly."/>
                         <Highlight
-                        icon={<FontAwesomeIcon icon="fa-gamepad" />} 
+                        icon={<FontAwesomeIcon icon="fa-solid fa-book" />} 
                         title="10,000+ Manga" 
                         para="Manga Opus has books in all your favourite categories"/>
                         <Highlight
